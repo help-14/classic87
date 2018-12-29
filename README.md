@@ -1,4 +1,4 @@
-# classic87
+# classic 87
 Classic TKL Keyboard
 
 My intent was to cnc it from wood, you will need to cut a plate using 1.5mm inox or steel, some 5mm M3 popnuts and some M3 screws.
